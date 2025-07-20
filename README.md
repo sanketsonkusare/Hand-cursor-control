@@ -29,7 +29,7 @@ This Python script demonstrates real-time hand cursor control with click and rig
 1. Run the script:
 
    ```bash
-   python hand_cursor_control.py
+   python mouse.py
    ```
 
 2. A window titled "MediaPipe Hands" will display your webcam feed with hand landmarks.
